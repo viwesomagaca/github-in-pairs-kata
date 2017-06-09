@@ -1,12 +1,12 @@
 # GitHub in pairs Kata
 
-Pair with another coder and do this GitHub kata. This kata will teach you a workflow that allows two uses to work together on a shared GitHub repository. There are other workflows like `git flow` which use feature branching, but this approach will help you to work on the same branch with one or more other developers. It will prepare you for using `git flow` in the future.
+Pair with another coder and do this GitHub kata. This kata will teach you a workflow that allows two or more coders to work together on a shared GitHub repository. There are other workflows like `git flow` which use feature branching, but you will start not be using feature branches in the Kata. This kata will prepare you for using `git flow`.
 
 **Do this:**
 
-* One coder fork this repository
-* Add the other coder as a collaborator to this forked repository
-* Both coders clone the repository to their machines
+* One coder **fork** this repository
+* Add the other coder as a collaborator to this **forked repository**
+* Both coders clone the **forked repository** to their machines
 
 ## Do this one user after the other
 
