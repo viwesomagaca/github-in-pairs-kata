@@ -1,6 +1,6 @@
 # GitHub in pairs Kata
 
-Pair with another coder and do this GitHub exercise. This exercise will show you a workflow that allows two uses to work together on a shared GitHub repository. There are other workflows like `git flow` which use feature branching, but this approach will help you to work on the same branch with one or more other developers. It will prepare you for using `git flow` approach in the future.
+Pair with another coder and do this GitHub kata. This kata will teach you a workflow that allows two uses to work together on a shared GitHub repository. There are other workflows like `git flow` which use feature branching, but this approach will help you to work on the same branch with one or more other developers. It will prepare you for using `git flow` in the future.
 
 **Do this:**
 
@@ -61,3 +61,10 @@ Create a new div in `index.html` with a message of `This is another div!` with a
 * Why did this happen?
 * How can you prevent this?
 * How can you resolve it?
+
+## Review time
+
+* What did you learn?
+* What did realise?
+* What questions do you have now?
+
