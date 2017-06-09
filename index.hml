@@ -1,16 +1,22 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="main.css">
-    </head>
-    <body>
 
-        <div class="theMessage"></div>
-        <div class="messageTwo">
-            This is a new div
-        </div>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="main.css">
+</head>
 
-        <script src="main.js" charset="utf-8"></script>
-    </body>
+<body>
+
+    <div class="theMessage"></div>
+    <div class="messageTwo">
+        This is a new div
+    </div>
+
+    <div class="MessageThree">
+        <p>This is another Div! </p>
+    </div>
+    <script src="main.js" charset="utf-8"></script>
+</body>
+
 </html>
