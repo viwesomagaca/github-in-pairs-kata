@@ -8,6 +8,9 @@
 
         <div class="theMessage"></div>
 
+            <div class="MessageThree">
+<p>This is another Div! </p>
+            </div>
         <script src="main.js" charset="utf-8"></script>
     </body>
 </html>
